@@ -1,5 +1,5 @@
 {
-  "name": "ToolTonic",
+  "name": "Toolonic",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -24,6 +24,8 @@
     "react-scripts": "5.0.1",
     "react-transition-group": "^4.4.2",
     "redux": "^4.1.2",
+    "Toolonic": "file:",
+    "Tooltonic": "file:",
     "ToolTonic": "file:",
     "typescript": "^4.1.6",
     "web-developer-tools": "file:"
